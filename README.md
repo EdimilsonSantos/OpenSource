@@ -1,4 +1,4 @@
-# QUIZ DE PERGUNTAS E RESPOSTAS DE ALTERNATIVAS
+# QUIZ DE PERGUNTAS E RESPOSTAS
 
 Um programa de codigo aberto a todos os interessados ​​no assunto.
 
